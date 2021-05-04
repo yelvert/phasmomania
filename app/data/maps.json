@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Tanglewood Street House",
+    "size": "small"
+  },
+  {
+    "name": "Edgefield Street House",
+    "size": "small"
+  },
+  {
+    "name": "Ridgeview Road House",
+    "size": "small"
+  },
+  {
+    "name": "Grafton Farmhouse",
+    "size": "small"
+  },
+  {
+    "name": "Bleasdale Farmhouse",
+    "size": "small"
+  },
+  {
+    "name": "Brownstone High School",
+    "size": "medium"
+  },
+  {
+    "name": "Prison",
+    "size": "medium"
+  },
+  {
+    "name": "Asylum",
+    "size": "large"
+  }
+]

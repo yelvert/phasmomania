@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Banshee",
+    "evidence": [ "emf", "fingerprints", "freezing" ]
+  },
+  {
+    "name": "Demon",
+    "evidence": [ "freezing", "writing", "box" ]
+  },
+  {
+    "name": "Jinn",
+    "evidence": [ "emf", "orbs", "box" ]
+  },
+  {
+    "name": "Mare",
+    "evidence": [ "freezing", "orbs", "box" ]
+  },
+  {
+    "name": "Oni",
+    "evidence": [ "emf", "writing", "box" ]
+  },
+  {
+    "name": "Phantom",
+    "evidence": [ "emf", "freezing", "orbs" ]
+  },
+  {
+    "name": "Poltergeist",
+    "evidence": [ "fingerprints", "orbs", "box" ]
+  },
+  {
+    "name": "Revenant",
+    "evidence": [ "emf", "fingerprints", "writing" ]
+  },
+  {
+    "name": "Shade",
+    "evidence": [ "emf", "orbs", "writing" ]
+  },
+  {
+    "name": "Spirit",
+    "evidence": [ "fingerprints", "writing", "box" ]
+  },
+  {
+    "name": "Wraith",
+    "evidence": [ "fingerprints", "freezing", "box" ]
+  },
+  {
+    "name": "Yurei",
+    "evidence": [ "freezing", "orbs", "writing" ]
+  }
+]
