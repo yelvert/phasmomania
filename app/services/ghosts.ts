@@ -1,6 +1,6 @@
 import ghosts from '../data/ghosts.json'
 
-export const enum EEvidenceType {
+export enum EEvidenceType {
   box = 'box',
   emf = 'emf',
   fingerprints = 'fingerprints',
@@ -11,6 +11,15 @@ export const enum EEvidenceType {
 
 export type TEvidenceType = keyof typeof EEvidenceType
 
+export enum EEvidenceStrings {
+  'box' = 'Spirit Box',
+  'emf' = 'EMF Level 5',
+  'fingerprints' = 'Fingerprints',
+  'freezing' = 'Freezing Temperatures',
+  'orbs' = 'Ghost Orbs',
+  'writing' = 'Ghost Writing',
+}
+
 export type TGhostEvidences = [ TEvidenceType? , TEvidenceType?, TEvidenceType? ]
 
 export interface IGhost {
@@ -19,7 +28,6 @@ export interface IGhost {
 }
 
 export type TGhosts = Array<IGhost>
-
 
 export const Ghosts = ghosts as TGhosts
 export default Ghosts
